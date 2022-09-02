@@ -1,1 +1,1 @@
-#This is  Story 2, creatted fron github page
+#This is  Story 2, created fron github page
